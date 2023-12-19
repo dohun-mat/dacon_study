@@ -2,6 +2,7 @@
 
 수원대X데이콘에 참가해 데이콘대회를 해보았습니다.  
 데이터전처리, 부스팅, 배깅, 보팅 모델링, 앙상블 등등의 개념을 실습을하였고 데이콘대회를 나가보아 실제로 적용해보았습니다.
+## GridSearch CV로 하이퍼파라미타 튜닝도 해보았습니다.
 ## 모델링 : XGBoost, XGBM, lightGBM, randomforest, random forest regression을 실습해보았고 실제로 데이콘대회에 참가하여 사용해 보았습니다.  
 ## boosting : 여러 개의 (약한)분류기가 순차적으로 학습하며, 앞에서 학습한 분류기가 예측이 틀린 데이터에 대해 다음 분류기가 가중치를 인가해서 학습을 이어 진행하는 방식  
 ## 배깅 : Bagging은 Bootstrap Aggregation의 약자입니다. 배깅은 샘플을 여러 번 뽑아(Bootstrap) 각 모델을 학습시켜 결과물을 집계(Aggregration)하는 방법
